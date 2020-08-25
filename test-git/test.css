@@ -1,0 +1,7 @@
+.ball {
+    position: absolute;
+    border-radius: 50%;
+    border-color:  orchid;
+    width: 100px;
+    height: 100px;
+}
